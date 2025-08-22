@@ -43,3 +43,7 @@ h2 {
     border-radius: 8px;
     margin: 10px;
 }
+
+.justify-center {
+    justify-content: center;
+}
