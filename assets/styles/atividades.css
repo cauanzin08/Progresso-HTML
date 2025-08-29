@@ -6,9 +6,23 @@
 }
 
 .retangulo {
-    width: 400px;
-    height: 200px;
-    background-color: black;
-    margin 50px; 
+    width: 150px;
+    height: 150px;
+    background-color: rgb(59, 177, 255);
+    margin: 50px auto; 
+    border-radius: 50%;
 
+}
+
+
+.vermelho {
+    background-color: rgb(255, 0, 0);
+}
+
+.amarelo {
+    background-color: rgb(255, 251, 0);
+}
+
+.verde {
+    background-color: rgb(0, 255, 0);
 }
